@@ -1,4 +1,4 @@
-full_hash=08c0dc207cf0854bf709bae8c8922a0a78e43128
-short_hash=08c0dc2
-message=First commit
-date=2026-08-13 10:13:49 +0000
+full_hash=5e3ee869931cb5bc3f5c53b9bd8e1106f5f7b0f8
+short_hash=5e3ee86
+message=feat: support background bootstrap on NAT VPS
+date=2026-08-13 11:13:13 +0000
